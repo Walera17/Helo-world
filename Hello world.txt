@@ -1,6 +1,8 @@
-print("Hello world!;")
-print("Hello everybody;")
-print("Hello;")
-print("Hello Dog;")
-print("Hello Oleg!;")
-Goodbye Юыху master!;
+print("Hello world!")
+print("Hello everybody")
+print("Hello")
+print("Hello Dog")
+print("Hello Oleg!")
+Goodbye Юыху master!
+print("Hello OLGA!")
+print("Glad to see you!")
