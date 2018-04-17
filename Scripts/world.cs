@@ -9,6 +9,7 @@ namespace TestName
 			Console.WriteLine("Hello World");
 			Console.Write("Test");
 			Console.ReadKey(true);
+			Console.WriteLine("Goodbye");
 		}
 	}
 }
